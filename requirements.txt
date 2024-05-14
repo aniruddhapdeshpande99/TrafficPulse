@@ -1,0 +1,14 @@
+plotly
+requests
+alembic
+# Installs sqlalchemy as well
+sqlacodegen==2.3.0.post1
+psycopg2-binary
+dash
+pandas
+geopy
+torch==2.1.0
+transformers
+Pillow
+statsmodels==0.14.0
+scikit-learn==1.3.2

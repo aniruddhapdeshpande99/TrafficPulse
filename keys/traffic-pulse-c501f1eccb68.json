@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "traffic-pulse",
+  "private_key_id": "c501f1eccb6819b86de893e451222af9a6513c6e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNCD80uASAqoU6\n6EUBzy6UitBQaX3pZOOsKz/oDnSPCTFgXGjQjoUDuj6tCUdz1CBUw2Q6eWXd0GOg\nm3657xvRveA+aW5fbXrR9I4TjogmgiJc57GbZTObBPxyp9eAuvXP0LdXaFRqdGcF\nZ1YqyqwWe4NSz3iId4twtBc7Nlue6+ilJDBVCs4snQIry3yJhc4hIyO7i8Atm0HA\nglBJeh9+KL5nPc35MdztKZsM1VBOBBAxreo8g/d/ovqLi8ESMSqfQ0uYvPbBzvUQ\nZOkYtsVsEgpVpU7n+6ThgkESH1HBv+tmfCFAAmyz3wBzbhDF3KyXKQpamY8BEFBI\nFOARKXMjAgMBAAECggEACqshr52qbYMYVwYL+GA7IiaNvu/MsFUvSMYG8SbpzYfv\nn+R4qoin7WQ50g++cVpgN+WwDiAP+vhwOESvCOZWS7xPpUYfvjgFOoe5NtV+4+x3\nwXhnp1hr1LNwBIutBnlAxIhg0EI3Yw/dTNlhXe0/nBUSmPLLtX1TutCo65jt/Oxd\naGl2fyjTjKTNnria2cGEHCcgzOREpewUSMQnqDbLRnSaenYAjC/Yn1gPbdWHMDVB\nyRE7ATNbp+xcDi7szLzBJ08IR4l2gaL3BevkJ3kJAQmAFitN5QoFq1wsy3SJb2I7\nN2m+mJY72C5BLavEP4gWUHRCD220ObCbCk1w2X0PRQKBgQD6v5qPAMD2poud9yvX\nRV3DR/+xrP5hO0ugRDTnaP4bsEbCy6lTsg4OzBNh+0kziMVEw0viih6yScEgji4r\nkaIFqFwGGLdJhiYV6KIdPb+A6vafHEQqUdKes//qGHG/LlijjVNyK0xkOMgLrjO9\nZvSPs9wQmwEgBvi69byeHmy1vQKBgQDRU4i0x0uwHwGhFDLTGZ+l8owTXkAFqkko\nwLY1CukpW8x8yQeNsxmf9hRyHZHFZHuUiZCi5YOpkw8wRfIe97zsZrFfDn0r8CfA\nng6RQe09Za0Aoglq4yyoLNCuCl8YDPnjE7W2Oa5tEzTSjwAm0O/jAzFmoAQFePHp\nDECVcpUqXwKBgQD4j1ih6yhdGAkMhMkDszJX8xYnRYpATiwQaaxbvHswbVQnowVt\n/vHqfyezmAofOLP8DvA5V5tINs5n/CkObWXD3/mg3X1LN9ynGR0iiWQ9Yi0o2jdE\nECoNwfasUqDm2AVr0xtl8D/glVzQH1YQqW9CyBMcrtq1qdOEWTYpM5WlrQKBgQCz\nl9veXm8NuEyJiu7gN0fF9QdBRsffFG6YTF8Hu0i4d05GcaPNazA9EcAQ+FWs6b0t\nf6lcWVZREx8g56IH971bhfAAAkpafD1fATy2W73Tw3xe4qb50dbqoyiXacaUt+1d\nafepVGvWoXfcf1w98V0fhAnKZteMamwC6sQudJSOOQKBgFGN7xwf9LMENW/y/TH9\n5+5JU3LKkK9fVYc/xYXbO2jUlXf9OWRqbqKY+U3W5WqK03tWB2ndfTX94YDTgK9t\nnBVfvG68n3pG9ppKkF/GxBAhZEa6rUVuKhRYnQq40E6pdmDjS/Yl86jNmPQUN/L3\n9+hlUJj5rucfkjjB/lxCWFFZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "traffic-pulse-data-downloader@traffic-pulse.iam.gserviceaccount.com",
+  "client_id": "108640673962600089495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/traffic-pulse-data-downloader%40traffic-pulse.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

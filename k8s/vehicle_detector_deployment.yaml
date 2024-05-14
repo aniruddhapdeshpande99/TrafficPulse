@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vehicle-detector-deployment
+  labels:
+    app: vehicle-detector
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vehicle-detector
+  template:
+    metadata:
+      labels:
+        app: vehicle-detector
+    spec:
+      containers:
+      - name: vehicle-detector-bottom-up
+        image: gcr.io/traffic-pulse/vehicle-detector:v0.1.17
+        ports:
+        - containerPort: 8080
+        env:
+          - name: DB_CONN_STR
+            value: "postgresql+psycopg2://postgres:postgres@10.59.16.3:5432/traffic-pulse-database"
+          - name: FETCH_LATEST_IDS
+            value: "0"
+      - name: vehicle-detector-top-down
+        image: gcr.io/traffic-pulse/vehicle-detector:v0.1.17
+        ports:
+        - containerPort: 8080
+        env:
+          - name: DB_CONN_STR
+            value: "postgresql+psycopg2://postgres:postgres@10.59.16.3:5432/traffic-pulse-database"
+          - name: FETCH_LATEST_IDS
+            value: "1"

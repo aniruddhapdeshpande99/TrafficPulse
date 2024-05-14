@@ -1,0 +1,10 @@
+FROM python:3.9
+
+WORKDIR /usr/app
+
+COPY ./requirements.txt ./
+RUN pip3 install -r requirements.txt
+
+COPY ./vehicle_detection.py ./orm.py ./utils.py ./
+
+ENTRYPOINT ["python", "vehicle_detection.py"]
