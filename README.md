@@ -1,7 +1,9 @@
 # Traffic-Pulse
 
 **Interactive Real-Time Traffic Jam Analysis & Forecast System**
+
 Team 43 • Aniruddha Deshpande · Bhargava Somu · Mahek Mishra · Tenzin Bhotia 
+
 Georgia Institute of Technology
 
 ---
