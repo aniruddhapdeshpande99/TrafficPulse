@@ -2,9 +2,9 @@
 
 **Interactive Real-Time Traffic Jam Analysis & Forecast System**
 
-Team 43 • Aniruddha Deshpande · Bhargava Somu · Mahek Mishra · Tenzin Bhotia 
+Aniruddha Prashant Deshpande · Bhargava Somu · Mahek Mishra · Tenzin Bhotia 
 
-Georgia Institute of Technology
+Georgia Institute of Technology (Course Project for CSE 6242 - Data and Visual Analytics)
 
 ---
 
